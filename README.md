@@ -14,3 +14,8 @@ Sample website with plenty of files for demos
 ## How to contribute
 No need
 
+## somethings
+
+changing code and won't commit
+
+changing again and not going to commit
