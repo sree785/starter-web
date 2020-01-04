@@ -9,7 +9,6 @@ Adding some text
 ## Purpose
 
 Sample website with plenty of files for demos
-fdasfafd
 
 
 ## How to contribute
@@ -28,4 +27,5 @@ adding this file from master
 ## rebasing
 rebasing after making changes to my feature branch
 adding text after first rebase
+2333233
 \3e343434
